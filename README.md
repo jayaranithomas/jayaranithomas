@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jayaranithomas
-- 👀 I’m interested in working
-- 🌱 I’m currently learning Software Testing
+- 👀 I’m interested in software testing
+- 🌱 I’m currently a Test Analyst Intern at MVP Studio
 - 💞️ I’m looking to collaborate on Software testing methodologies
 - 📫 How to reach me ...
 
